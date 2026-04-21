@@ -1,25 +1,34 @@
-<!-- Dark Cyberpunk Header -->
+<!-- Minimal Dark Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ash%20Parker%20Code&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=00F5FF" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:111827&height=140&section=header&text=ASH%20PARKER%20CODE&fontSize=34&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">🌌 Fullstack Developer | AI Engineer in Progress 🌌</h2>
+<h3 align="center">FULLSTACK DEVELOPER • AI ENGINEER</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&center=true&vCenter=true&lines=Building+Cool+Things...;AI+%2B+Web+Dev;Leveling+Up+Everyday+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=9CA3AF&center=true&vCenter=true&lines=BUILDING+SYSTEMS;AI+%2B+WEB;CONSISTENCY+OVER+HYPE" />
 </p>
 
 ---
 
-## 🧠 About Me
+## ABOUT
 
-💻 Aspiring Full Stack Developer & AI Engineer  
-🌱 Grinding fundamentals to build powerful systems  
-⚡ Turning ideas into real-world digital experiences  
+<p>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"/> 
+  Aspiring Fullstack Developer and AI Engineer  
+</p>
+<p>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="20"/> 
+  Focused on strong fundamentals and scalable systems  
+</p>
+<p>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="20"/> 
+  Turning ideas into functional digital products  
+</p>
 
 ---
 
-## ⚙️ Tech Stack
+## TECH STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,linux,vscode&theme=dark" />
@@ -27,46 +36,41 @@
 
 ---
 
-## 🚀 Projects
+## PROJECTS
 
-### 🎮 Gamified Event Platform
-✨ Interactive platform for online events  
-🎯 Leaderboards, engagement systems & gamification  
+### GAMIFIED EVENT PLATFORM
+- Interactive web platform for online events  
+- Leaderboards, engagement systems, gamification  
 
----
-
-### 🌐 ForgeNetwork Website
-🔥 Modern scalable web platform  
-⚡ Focus on performance & clean UI  
+### FORGENETWORK WEBSITE
+- Modern scalable website for a tech community  
+- Built with performance and clean UI focus  
 
 ---
 
-## 🎯 Hobbies
+## INTERESTS
 
-🏋️ Gym  
-🎵 Music  
-🎮 Gaming  
+<p>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="20"/> Gym  
+</p>
+<p>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="20"/> Music  
+</p>
+<p>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="20"/> Gaming  
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## STATS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AshParkerCode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshParkerCode&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/AshParkerCode/AshParkerCode/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🌌 Activity Graph
+## ACTIVITY
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshParkerCode&theme=react-dark&bg_color=0d1117&hide_border=true" />
@@ -74,7 +78,7 @@
 
 ---
 
-## 📫 Connect
+## CONNECT
 
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
@@ -84,13 +88,13 @@
 
 ---
 
-## ⚡ Quote
+## QUOTE
 
-> "Code. Build. Evolve." ⚡
+> CODE. BUILD. EVOLVE.
 
 ---
 
-<!-- Dark Footer -->
+<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:0d1117&height=80&section=footer"/>
 </p>
